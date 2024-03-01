@@ -6,13 +6,13 @@
     height: 100vh;
     background-color: papayawhip;
 }
-.formulario{
+/* .formulario{
     background-color: brown;
     height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .logo {
     text-align: center; 
 }
